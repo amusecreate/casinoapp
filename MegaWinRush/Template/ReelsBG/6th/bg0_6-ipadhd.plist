@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>bg_0.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1412,860}</string>
+                <key>spriteSourceSize</key>
+                <string>{1412,860}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{1412,860}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>bg0_6-ipadhd.pvr.ccz</string>
+            <key>size</key>
+            <string>{1414,862}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:409913c51980e7ba141fa3b8f1f2da3b:209f3c6da3a075bf6f006aed1dabb134:f0e5afadb4ae2a5dd6b314dc9d4dcbe6$</string>
+            <key>textureFileName</key>
+            <string>bg0_6-ipadhd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>
